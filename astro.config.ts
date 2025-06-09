@@ -83,8 +83,12 @@ export default defineConfig({
 					label: "Projects that use minecraft-essentials",
 					items: [
 						{
-							label: "Decent-Client Launcher",
-							link: "https://github.com/decent-client/launcher",
+							label: "TeaClient",
+							link: "https://teaclient.net/",
+						},
+						{
+							label: "OpusClient",
+							link: "https://opusclient.com/",
 						},
 					],
 				},
