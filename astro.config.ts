@@ -11,6 +11,7 @@ export default defineConfig({
 		"/docsrs": "https://docs.rs/minecraft-essentials/",
 		"/cratesio": "https://crates.io/minecraft-essentials/",
 		"/github": "https://github.com/minecraft-essentials",
+		"/": "https://teaclient.com/news/updates/deprecation-of-minecraft-essentails",
 	},
 
 	integrations: [
